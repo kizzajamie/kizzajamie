@@ -20,13 +20,13 @@
    
 - 🆓 Don't Forget To **[Follow Me](https://github.com/kizzajamie/kizzajamie)**
 
-<p align="center"> <a href="JAMIE"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=phaticusthiccy&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="Anirudh" /></a> </p><br> 
+<p align="center"> <a href="JAMIE"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=SudoAnirudh&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="Anirudh" /></a> </p><br> 
 
 
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kizzajamie&show_icons=true&theme=nightowl" alt="Anirudh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kizzajamie&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Anirudh"/></p></a><br> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudoAnirudh&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Anirudh"/></p></a><br> 
 
 
 ##
