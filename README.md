@@ -1,6 +1,6 @@
-# Hi I'm ꧁༒🄹🄰🄼🄸🄴.🅺༒꧂⁩&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
+# Hi I'm JAMIE.K&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
 
-![My card name](https://cardivo.vercel.app/api?name=꧁༒🄹🄰🄼🄸🄴.🅺༒꧂⁩&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://i.ibb.co/c80cZ3Y/pp-biodata.jpg?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=kizzajamie&github=kizzajamie&twitter=kizzajamie&whatsapp=256777185053&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=JAMIE.K&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://i.ibb.co/c80cZ3Y/pp-biodata.jpg?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=kizzajamie&github=kizzajamie&twitter=kizzajamie&whatsapp=256777185053&pattern=leaf&colorPattern=%23eaeaea)
 
 - 🧑‍🏫 I’m currently working on WhatsApp bots
 
@@ -26,7 +26,7 @@
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kizzajamie&show_icons=true&theme=nightowl" alt="Anirudh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaticusthiccy&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Anirudh"/></p></a><br> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kizzajamie&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Anirudh"/></p></a><br> 
 
 
 ##
