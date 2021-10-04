@@ -31,15 +31,14 @@
 ##
 
 <details>
-
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
         
 [Github-Trophy](https://github-profile-trophy.vercel.app/?username=kizzajamie)
-</details>
 
 <details>
     <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
-![Metrics](https://metrics.lecoq.io/kizzajamie?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+
+[Metrics](https://metrics.lecoq.io/kizzajamie?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
 </details>
 
