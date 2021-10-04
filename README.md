@@ -2,17 +2,17 @@
 
 ![My card name](https://cardivo.vercel.app/api?name=꧁༒🄹🄰🄼🄸🄴.🅺༒꧂⁩&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://i.ibb.co/c80cZ3Y/pp-biodata.jpg?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=kizzajamie&github=kizzajamie&twitter=kizzajamie&whatsapp=256777185053&pattern=leaf&colorPattern=%23eaeaea)
 
-- 🧑‍🏫 I’m currently working bots
+- 🧑‍🏫 I’m currently working on WhatsApp bots
 
-- 📖 I’m currently learning *ALL LANGUAGES**
+- 📖 I’m also currently learning **ALL LANGUAGES**
 
-- 🕵️ I’m looking to collaborate with anyone interested
+- 🕵️ I’m looking forward to collaborating with anyone interested
 
 - 💬 Ask me about: **Bots** and **Coding**
 
 -- 📫 How to reach me: 
 
-   [WHATSAPP](https://wa.me/message/YV6MSQYRLWEWA1)**
+   [WHATSAPP](https://wa.me/message/YV6MSQYRLWEWA1)
    [TWITTER](https://twitter.com/kizzajamie?s=09)
    [FACEBOOK](https://www.facebook.com/kizza.jamie.1042)          
    [EMAIL](kizzajamez@gmail.com)
@@ -38,32 +38,11 @@
 </details>
 
 <details>
-
     <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
 ![Metrics](https://metrics.lecoq.io/kizzajamie?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
 </details>
 
-## Another Pin Project
-
-<details>
-
-  <summary>My New WhatsApp Project</summary>
-
-   <a href="https://github.com/SudoAnirudh/Eva">
-
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SudoAnirudh&repo=Eva">
-
-  </a>
-
-   <summary>My New WhatsApp Project</summary>
-
-   <a href="https://github.com/SudoAnirudh/_E-V-A_">
-
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SudoAnirudh&repo=_E-V-A_">
-
-  </a>
-</details>
 
 
 
