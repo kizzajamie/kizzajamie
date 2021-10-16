@@ -10,6 +10,11 @@
 
 - 💬 Ask me about: **Bots** and **Coding**
 
+
+<img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+
+
 -- 📫 How to reach me: 
 
    [WHATSAPP](https://wa.me/message/YV6MSQYRLWEWA1)     
@@ -26,8 +31,7 @@
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kizzajamie&show_icons=true&theme=nightowl" alt="Anirudh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudoAnirudh&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Anirudh"/></p></a><br> 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoanirudh&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Anirudh"/></p></a><br> 
 
 ##
 
