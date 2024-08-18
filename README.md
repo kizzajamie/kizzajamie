@@ -17,7 +17,7 @@
 
 -- 📫 How to reach me: 
 
-   [WHATSAPP](https://wa.me/message/YV6MSQYRLWEWA1)     
+   [WHATSAPP](https://wa.me/25675876172)     
    [TWITTER](https://twitter.com/kizzajamie?s=09)     
    [FACEBOOK](https://www.facebook.com/kizza.jamie.1042)             
    [EMAIL](kizzajamez@gmail.com)      
